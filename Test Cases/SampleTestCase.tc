@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>opis</description>
+   <name>SampleTestCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cee47bf9-dcf0-4ba1-927b-697cddd1ed4d</testCaseGuid>
+</TestCaseEntity>
